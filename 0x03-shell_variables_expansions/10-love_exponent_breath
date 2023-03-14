@@ -1,0 +1,2 @@
+#!/bin/sh
+echo $(echo "scale=2; e(l($BREATH)*$LOVE)" | bc)
